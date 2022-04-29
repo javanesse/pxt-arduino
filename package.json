@@ -33,7 +33,7 @@
     "msg/**"
   ],
   "devDependencies": {
-    "async": "2.6.0",
+    "async": "2.6.4",
     "copy-webpack-plugin": "4.5.1",
     "eslint": "^5.7.0",
     "event-stream": "3.3.4",
